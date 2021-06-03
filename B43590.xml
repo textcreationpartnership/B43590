@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prisoners enlargement, or, The poor mans release out of prison discovering the misery that poor men endure through the cruelty of their hard-hearted creditors : and the worthy behaviour and carriage of the referrees [sic] concerning prisoner : and their releasing by their meanes great number of poor souls : also, shewing how poor men may be relieved, and releas'd out of prison that have hard-hearted creditors to deal withall : desiring all men whatever to prevent imprisonment / written by a sufferer and wel-wisher to poor prisoners, L.P.</title>
+            <author>L. P., sufferer and wel-wisher to poor prisoners.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43590</idno><idno type="EEBO-CITATION">767838799</idno>
+  <idno type="VID">212280</idno>
+  <idno type="EEBO-PROQUEST">2240869835</idno>
+  
+            <idno type="OCLC"> 767838799</idno>
+            <idno type="OCLC">ocn 767838799</idno>
+            <idno type="STC">Wing P74A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212280)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 3011:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prisoners enlargement, or, The poor mans release out of prison discovering the misery that poor men endure through the cruelty of their hard-hearted creditors : and the worthy behaviour and carriage of the referrees [sic] concerning prisoner : and their releasing by their meanes great number of poor souls : also, shewing how poor men may be relieved, and releas'd out of prison that have hard-hearted creditors to deal withall : desiring all men whatever to prevent imprisonment / written by a sufferer and wel-wisher to poor prisoners, L.P.</title>
+                  <author>L. P., sufferer and wel-wisher to poor prisoners.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G. [i.e. W. Godbid] for Richard Harper in Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:212280:1"/>
+            <pb facs="tcp:212280:2"/>
+            <p> THE PRISONERS ENLARGEMENT: OR <hi>The Poor Mans Release out of Prison.</hi>
+            </p>
+            <p>
+               <hi>DISCOVERING</hi> The Misery that Poor Men endure, through the Cruelty of their hard-hearted Creditors.</p>
+            <p>AND The worthy Behaviour and Carriage of the REFERREES concerning PRISONERS: And their Releasing by their Meanes great Number of Poor Souls.</p>
+            <p>
+               <hi>ALSO,</hi> Shewing how Poor Men may be Relieved, and Releas'd out of Prison that have hard-hearted Creditors to deal withall.</p>
+            <p>Desiring all men whatever to prevent Imprisonment.</p>
+            <p>Written by a Sufferer and Wel-wisher to Poor PRISONERS, <hi>L. P.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by W. G. for RICHARD HARPER, in Smithfield, 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:212280:3"/>
+            <head>To the Courteous Reader.</head>
+            <p>I Here present thee with a passage of comfortable Tydings, and good News, brought neither from <hi>Romes</hi> Ponti<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Chair, <hi>Spains</hi> Inquisition; nor from any tye of the <hi>Norm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> Linage or Race; But from the fortunate of our dayes, <hi>Oliver</hi> Lord Protector, whom (by the decree of the Almighties power is made chief man of <hi>England, Scotland</hi> and <hi>Ireland,</hi> who having before and since his Victories heard the grief and anguish of many poor Prisoners Petitions both in writing, and by word of mouth, hath been pleased to chuse certain noble spirits well deserving Gentlemen, which carry themselves so worthily and wary and so affectionate to poor Prisoners that they rather seem to be taken to be their Brothers, or Dear and intimate freinds then strangers as they are unto them, truely imitating our Lord and Saviours example and rule in comforting the comfortless, visiting and releasing the poor Prisoner in his af<g ref="char:EOLhyphen"/>fliction when all outward means hath seemed to fail, yet this comfortable light hath burst out in the midst of their calamity, to restore him that lyes in prison for debt, not having estate to defray his Creditor, Shall be as many have been discharged out out of prison by these worthy Gentlemen stiled the <hi>Refferrees,</hi> which have and do sit at Several places every week on certaine dayes in the week, as <hi>Ludgate, Ely-</hi>house, and about the Upper Bench, and in other places which have relation to Prisons, who are pleased by the virtue and power that these <hi>Referrees</hi> have from the Lord Protector to determin discharge and release any Prisoner for debt whatsoever, to Gods glory be it spoken; and the worthy <hi>Referrees</hi> they have discharged and set free many hundreds of poor souls out of prison, and in the space of lesse then 12. weeks, besides have debated betwixt Creditor and Debtor above 300. several mens differences by their pains and industry; and this not for lucre of gold and silver, but for the
+<pb n="3" facs="tcp:212280:3"/> glory of God, the comfortable refreshing of many poor Prisoners their liberty. Oh that such men had been of elder years too, so many then had not been starved to death in prison, nor undone by sly-pated Lawyers; these tread an easy path for any that shal have occasion to use them; these men take pains, spend their spirits and their time, for no mony wil they take; such men are no Mountebanks nor Lawyers, for they cheat for their mony, these Gentlemen delight to right the wronged; the cost of the acom<g ref="char:EOLhyphen"/>plishment of any mans business to bring it to a hearing is no profit to them, a Petition to be drawn to the Lord Protector that the Scrivener will be paid, for the labourer is worthy of his hire; the Clerks for register must have their fees, which is not costly, the <hi>Referrees</hi> they have their labour for their pains; and for their so charitable actions, the God of heaven fill them all with his grace in this world, and with his glory in the world to come for evermore. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>The Prisoners Inlargement.</head>
+            <div type="letter">
+               <head>A Greeting from a patient Prisoner to his cruel Creditor.</head>
+               <opener>
+                  <salute>GOOD Sir,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> desire you for the love that one Christian ought to bear to another, to look upon my poor and wretched estate, and withall to pity the sad condition <hi>I</hi> am in; You know that <hi>I</hi> have lain a long time at your mercy here in this doleful Prison having extreme want of all needful necessaries for a Christian to make use of; my stomach i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> much decayed for want of good and wholesom dyet, my flesh is almost consumed with vermine for want of clean linnen and woollen cloaths to shift me withall; my ribs bones and joynes are ready to perish for want of fresh lodging which grieves me most of all; and besides that, <hi>I</hi> am amongst a company of ill disposed desperate people, which have not the fear of God before thei eyes.</p>
+               <pb n="4" facs="tcp:212280:4"/>
+               <p> And in stead of serving of God, and obeying his commandements▪ all manner of wicked vices used whatsoever, not fit to mention but with grief of heart, as drunkenness swearing, and cursing, Hypocra<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> dissimulation, fraud guil deceit and cruelty, with exactions and great opressions, at all occasions and seasons abusing their betters, and they who do not revell and rore as the most do; so that this place I lye in is more like a den of Divells, then a Prison for poor men; therefore again I humbly desire you upon the bended knees of my heart, that you take some speedy course for my releaf, that I may follow my calling with diligence both day and night, till I have given you satisfaction; the which I shall never be able to do in Prison; and in your discharge of me the great God of mercy will be loving to the mercyfull, and my prayers shall during life be for you and yours,</p>
+               <closer>
+                  <signed>
+                     <hi>So rests, Your Poor Captive.</hi> R. L.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Creditors reply to the Prisoners request.</head>
+               <opener>
+                  <salute>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r,</salute>
+               </opener>
+               <p>I have seen your Petition &amp; heard your agreements, which I value <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>o more then I do the barking of a Dog, you say you are perisht and <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ost consumed within you, those things shall never trouble me to <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y your case, for in the Prison you shall lye till you famish with hun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> starve with cold, and rot one limb from another, except you can <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a meanes to pay me, else rhere is no way of your enlargment, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>efore remember what is said unto you, get a friend to pay me <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>n my mony upon the nayl, or else at the last I shall make dice of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bones, and I think it to be the justest deed that ever I did in my <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to let you dye and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot in Prison, that others which sees your ruin <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> take heed how they run in debt; and so (farewel) thou knowest <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mind, I prethee trouble me no more, for thou shalt never have thy <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>y till <hi>I</hi> have my mony.</p>
+            </div>
+            <div type="petition">
+               <head>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e Prisoners humble Suit to the wofull and well deserving Referres.</head>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ght honored and worthy Gentlemen you that are appointed to do <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>od for the poor, <hi>I</hi> humbly beseech you that you would be pleas<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ake up the matter betwixt me and my Creditor, that thereby <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> once more injoy my liberty, and since your Worships are put in <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ity and have the full power in your own hands to make a good <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>f bad matters, my request is that you will upon the miserable <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and sad condition that <hi>I</hi> am in at present, from which misery <hi>I</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ver be redeemed, except the Lord put it in your Worships hearts <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>at good work for me; which that you may acomplish, my pray<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and night to Almighty God for you, shall not be wanting.</p>
+               <closer>
+                  <signed>Your poor Petitioner <hi>D. C.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="response_to_petition">
+               <pb n="5" facs="tcp:212280:4"/>
+               <head>The Referres Reply to the distressed Prisoners Petition.</head>
+               <opener>
+                  <salute>FRiend,</salute>
+               </opener>
+               <p>we have heard thy grievance, and harsh usage, and God forbid but we should discharge our consciences, and being we are placed, and have authority to make just and legal peace, betwixt party and party; we hold it a great sin, if we should suffer a poor man to perish in prison for debt, being not able to pay: call for your creditors. <hi>Ans.</hi> They are not here. Let them be summoned again on such a day of the moneth; if they come, we will consider thy condition; if they come not, we shall order that.</p>
+            </div>
+            <div type="petition">
+               <head>A poor Prisoners Petition to the worthy Referres to obtain his liberty.</head>
+               <opener>SHeweth,</opener>
+               <p>Your Petitioner hath endured hard imprisonment for above 14. moneths, hath made away all he had to maintain himself, his Wife and Children, lying on the charity of well disposed people; and his Wife being brought to bed since her poor Husbands imprison<g ref="char:EOLhyphen"/>ment: all which miserable conditions are referred to your worthy considerations, being the Referrees appointed by his Highness the Lord Protector, for poor prisoners.</p>
+            </div>
+            <div type="response_to_petition">
+               <head>The hard hearted Creditor speaks.</head>
+               <opener>
+                  <salute>GEntlemen,</salute>
+               </opener>
+               <p>What's my own, I hope by vertue of the Law, I may claim: the Execution against the prisoner is for Body or Goods; and one I will have, or ready money: what if his Wife and Children beg &amp; starve, at their own charge be it, not mine, the Law being just, then my looking for my own, is not unjust: what's forty in the hundred, to a man in good Trading? men are not born to pick straws, or maintain prodigalls: the commodities were fresh, and vendable; and had my Debtor had but a Merchant-like conscience, and a nimble wit, he had been better for himself, and me both: my pure silver hath been in his hands this 4. tearms, and I have sent good Angels an unhappy way to fetch in the rest, with the disturbance of my nocturnal rest; and this I have undergone to obtain my own, yet I cannot have it, besides bribes and many a pint of Wine, spent on costly Lawyers. 15 <hi>s.</hi> Composition money, ile first be hanged, conscience is no part of my Trade, I have left him this thirty years; and if the seeking to obtain a desperate debt, be the fruits of a bad conscience, then God help the good: he that would thrive, must gripe, and have a good pledge; for my com<g ref="char:EOLhyphen"/>fort is in a well crammed bag: away with your childish nicities, I had rather oppress, then be oppressed. I look for my own, and <hi>I</hi> have the Law on my side, therefore his body must suffer.</p>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:212280:5"/>
+               <head>Referrees speak.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>We shall not seek to do you the least farthing of wrong th<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> may be; but thus, that he is a very poor man, and not wherewith<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> able to discharge you, we wish you, be incited to mercy, and let h<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pay you quarterly as he is able, which is the means <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that in time you may be paid: it is not your keeping him in a Prison, will pay you <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> maintain him, and his Family: he is their head, and do, as you would have others do unto you; discover any Estate he hath and we shall be a means for your good; but to lie and perish in a Prison and his Fami<g ref="char:EOLhyphen"/>ly to starve, how unpleasing it is to God, and good men, let all judge. We have power to release him, and not suffer any to perish and dye in Prison. The wise man saith, rob not the poor, because he is poor; nei<g ref="char:EOLhyphen"/>ther oppress the afflicted in the Gates; for the Lord will plead their cause, and spoyl the soul of them that have spoyled them <hi>Prov.</hi> 21. therefore Sir, seek not to get that which is not; we shall give you leave to consider of what we have spoken; and therefore conside of that, for if you find no Estate, we are sent to aford comfort to the distressed.</p>
+            </div>
+            <div type="letter">
+               <head>A Dispute betwixt the Referrees and the Creditors, about a poor man in Prison.</head>
+               <opener>
+                  <salute>
+                     <hi>Refer.</hi> SIR,</salute>
+               </opener>
+               <p>We understand that there is a poor distressed man in Prison, about a debt which he owes you, whereof all his goods and substance, if it were sold at who gives most, it would not pay the tenth part of your debt you claim; and whilst the man lies in Prison, the Wife and her Children are harborless. VVe would wish you take the debt quarterly, or at six moneths: first inquire his ability of working in his Calling, and his earning, and allow him for main<g ref="char:EOLhyphen"/>tenance, and a moiety for you: this may be for the Prisoners restaura<g ref="char:EOLhyphen"/>tion, the Creditors good, and the hard-hearted Jaylors vexation; a <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ter of his wages Quarterly: What ground when this poor wretch is out of prison hath he to plant any thing, but his labour? You know that the credit to be in a Prison, to have all his friends shake hands with him; nay, his very kindred not owne him, and his acquain<g ref="char:EOLhyphen"/>tance to prey upon his Estate, to devoure it as the Crowes do Carrion: therefore yield for his enlargement, else we will do it. A true saying you know, that a Prison did never pay debts, neither shall charity be blamed.</p>
+            </div>
+            <div type="letter">
+               <head>The Creditors surly answer to the Worshipful Referrees concerning his debtors.</head>
+               <opener>
+                  <salute>GEntlemen,</salute>
+               </opener>
+               <p>I know that you are men put in Authority, to reconcile differences betwixt Creditors and Debtors, and have power where<g ref="char:EOLhyphen"/>by to order things in a fair way, but you have not the power to give a<g ref="char:EOLhyphen"/>way
+<pb n="7" facs="tcp:212280:5"/> my debt, whether am I bound to maintain his Family, or my own? you know charity begins at home, so shall it be with me, I will be cha<g ref="char:EOLhyphen"/>ritable to my own, but not others, for the prisoner, he owes me a great deal of money, and he shall never have his freedom till he hath paid that.</p>
+            </div>
+            <div type="letter">
+               <head>The Referrees Reply.</head>
+               <p>YOu talk more like a Heathen, a Pagan, a Turk, or a Jew, then a Christian; have you so much forgot God and his word: nay your daily prayer also, that you should shut up the Bowels of compassion a<g ref="char:EOLhyphen"/>gainst your poor decayed Brother; hath not our Saviour left us an ex<g ref="char:EOLhyphen"/>ample? feed the hungry, cloath the naked, harbor the harborless, re<g ref="char:EOLhyphen"/>lieve the oppressed; and visit the Prisoner? is this your Conscience, rather to sacrifice, masacre and murther Christ, and his poor Members? I tell you, if you will not grant to his release, we shall free him, and proceed against you: the world is not now as it was in former times, that the corruption of unjust Lawyers, and hard-hearted Creditors, might do what they would: how many thousands have been undone, which otherwise might have lived in good repute and credit; and this for a truth, a poor man that was a prisoner, and undone, through envy went to a Lawyer, and in all civil respect, as possibly could be given to a worthier, and I am sure, a juster Lawyer then he was; when the said Lawyer had heard what the Clyent could say, the Lawyer bad his Clyent go home, buy a halter, and hang himself, a member of <hi>G. I.</hi> cannot deny this: after the Lawyer had got all he thought he could of the poor mans money, here was the counsel to his Clyent; time to be ordered. And since, this poor man hath not wherewithall to pay his debt: he shall not be detained in prison, as some have lain by report, being brought to Execution in one prison, 26. years; and the original of that mans misery, continued so long about a peny worth of milk; since which of late, the poor wretch is dead; O merciless Justice!</p>
+            </div>
+            <div type="part">
+               <head>Here followeth the manner of the Prisoners Delivery.</head>
+               <p>UPon the next day appointed the cruel Creditor was summon'd in again to make his appearance before the worthy Referrees, where, after a short dispute he was enforced to stand to the Order which was by them made; and so the poor Prisoner had his first Discharge, and was set at liberty; which was done by virtue of an Order newly made by the States of <hi>England;</hi> which doth concerne one man alone,
+<pb n="8" facs="tcp:212280:6"/> but hath relation to all the Prisons and Prisoners in <hi>England,</hi> that are the like necessity, which indeed, is one of the pious and charitable works of mercy, as ever was done: the Lord preserve the founder actors, and Conservators of that, a work tending much to Gods glory and the good of the Common-wealth.</p>
+            </div>
+            <div type="part">
+               <head>Another Passage.</head>
+               <p>A Poor Prisoner lying in Prison about 12 Moneths, and being hope<g ref="char:EOLhyphen"/>less, of any Redemption out of Captivity, accidentally, an acquain<g ref="char:EOLhyphen"/>tance of his, came to visit an old Friend of his, being in prison, and much grieved, to see this poor man in priso<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪ askt this prisoner, if he would, when God made him able, pay him some money which he would lay out towards his release; whereat the prisoner wept for joy, and promised that he would God willing, repay him again with many thanks when God made him able: so the prisoners friend procured his discharg therby the poor prisoner having bin imprisoned by a dishonest Lawyer, the Referrees searching the business with approved judgement, found the poor man unjustly imprisoned, so speedily discharged the prisoner, causing each party to give discharge to each other.</p>
+            </div>
+            <div type="part">
+               <head>Another.</head>
+               <p>A Poor man that had a VVife, and five small Children, being impri<g ref="char:EOLhyphen"/>soned for a great debt, and (not knowing how to discharge his Cre<g ref="char:EOLhyphen"/>ditors, put in practice the means, and left the success to God; after a hearing of the business on both sides; the parries were desired absence, whereupon the Referrees went to Counsel about that privately, &amp; or<g ref="char:EOLhyphen"/>dered that the man should pay quarterly, according to his Calling and ability, and so the poor man was discharged out of Prison, and per<g ref="char:EOLhyphen"/>forms honestly his Covenant with his Creditor.</p>
+            </div>
+            <div type="speech">
+               <head>A Referrees Speech on this occasion, in the conclusion.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>IT had been in our power to have discharged this Prisoner, but you see how fairly he hath promised, and now you are like to be payd your debt in time, better once then never; and for hard Cre<g ref="char:EOLhyphen"/>ditors, I am confident, they are the tormentors, or plague of many Pa<g ref="char:EOLhyphen"/>rishes; for when they have any Debtors, that will not hold word with them, they presently imprison the mans body; and in time, through the losse of his neglect of his Trade, the Children they are turned to the Parish, and thereby many Parishes have been pesterd therewith, to the undoing both of Parents and Children.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
